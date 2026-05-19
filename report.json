@@ -1,0 +1,14 @@
+{
+  "total_students": 20,
+  "country_counts": {
+    "Singapore": 3,
+    "Australia": 3,
+    "Canada": 3,
+    "Germany": 3,
+    "United Kingdom": 2,
+    "United States": 2,
+    "France": 2,
+    "New Zealand": 2
+  },
+  "completion_rate": 0.25
+}

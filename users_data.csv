@@ -1,0 +1,21 @@
+name,email,joined_date,country,bet_status
+Alice,alice@example.com,3/01/2026,Singapore,active
+Bob,bob@example.com,15/01/2026,Australia,completed
+Carol,carol@example.com,22/01/2026,United Kingdom,active
+David,david@example.com,4/02/2026,Canada,pending
+Eva,eva@example.com,11/02/2026,Germany,active
+Frank,frank@example.com,19/02/2026,Singapore,completed
+Grace,grace@example.com,27/02/2026,Australia,inactive
+Henry,henry@example.com,5/03/2026,United States,active
+Isabella,isabella@example.com,12/03/2026,France,pending
+Jack,jack@example.com,20/03/2026,New Zealand,active
+Karen,karen@example.com,28/03/2026,Canada,completed
+Leo,leo@example.com,2/04/2026,Germany,active
+Mia,mia@example.com,9/04/2026,Singapore,inactive
+Nathan,nathan@example.com,16/04/2026,Australia,active
+Olivia,olivia@example.com,21/04/2026,United Kingdom,completed
+Peter,peter@example.com,27/04/2026,United States,pending
+Quinn,quinn@example.com,3/05/2026,France,active
+Rachel,rachel@example.com,8/05/2026,New Zealand,completed
+Sam,sam@example.com,12/05/2026,Canada,active
+Tina,tina@example.com,16/05/2026,Germany,pending
