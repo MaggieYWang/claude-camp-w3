@@ -1,0 +1,9 @@
+{
+  "theme": "light",
+  "language": "zh-CN",
+  "font_size": 10,
+  "font_colour": "#333333",
+  "auto_save": true,
+  "auto_save_interval": 5,
+  "date_format": "YYYY-MM-DD"
+}
